@@ -192,3 +192,5 @@ console.log(myNumbers)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+myNumbers[myNumbers.length - 1] = 100
+console.log(myNumbers)
